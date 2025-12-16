@@ -1,5 +1,7 @@
 # 全部智能体架构（中文初版）
 
+本仓库是基于 [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) 的中文初版，感谢原作者 Fareed Khan 的贡献。
+
 ![made-with-Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![made-with-Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-f97c2c.svg) ![LangChain](https://img.shields.io/badge/LangChain-b084f3.svg) ![LangGraph](https://img.shields.io/badge/LangGraph-20232a.svg) ![Educational](https://img.shields.io/badge/Purpose-Educational-4caf50.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 欢迎来到一门关于**现代 AI 智能体（agent）设计**的系统化、动手实践的课程。本仓库包含 **17+ 种前沿智能体架构** 的详细实现，基于 LangChain 与 LangGraph 构建。它被设计成一本“活的教科书”，将理论概念与可运行、可复用的工程代码连接起来。
